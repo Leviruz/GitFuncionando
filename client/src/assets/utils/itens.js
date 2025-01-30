@@ -84,11 +84,11 @@ import kidy2 from "../img/kidy2.webp";
 import kidy3 from "../img/kidy3.webp";
 import kidy4 from "../img/kidy4.webp";
 
-import dnaflex from "../img/dnaFlex.png";
-import dnaflex1 from "../img/dnaFlex1.webp";
-import dnaflex2 from "../img/dnaFlex2.webp";
-import dnaflex3 from "../img/dnaFlex3.webp";
-import dnaflex4 from "../img/dnaFlex4.webp";
+import dnaflex from "../img/dnaflex.png";
+import dnaflex1 from "../img/dnaflex1.webp";
+import dnaflex2 from "../img/dnaflex2.webp";
+import dnaflex3 from "../img/dnaflex3.webp";
+import dnaflex4 from "../img/dnaflex4.webp";
 
 const itens = [
   {
