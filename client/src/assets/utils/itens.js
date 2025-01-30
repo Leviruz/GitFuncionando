@@ -84,7 +84,7 @@ import kidy2 from "../img/kidy2.webp";
 import kidy3 from "../img/kidy3.webp";
 import kidy4 from "../img/kidy4.webp";
 
-import dnaflex from "../img/dnaflex.png";
+import dnaflex from "../img/DnaFlex.png";
 import dnaflex1 from "../img/dnaflex1.webp";
 import dnaflex2 from "../img/dnaflex2.webp";
 import dnaflex3 from "../img/dnaflex3.webp";
