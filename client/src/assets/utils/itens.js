@@ -79,16 +79,16 @@ import vertus3 from "../img/vertus3.webp";
 import vertus4 from "../img/vertus4.webp";
 
 import kidy from "../img/KidyInfantil.png";
-import kidy1 from "../img/Kidy1.webp";
-import kidy2 from "../img/Kidy2.webp";
-import kidy3 from "../img/Kidy3.webp";
-import kidy4 from "../img/Kidy4.webp";
+import kidy1 from "../img/kidy1.webp";
+import kidy2 from "../img/kidy2.webp";
+import kidy3 from "../img/kidy3.webp";
+import kidy4 from "../img/kidy4.webp";
 
-import dnaflex from "../img/DnaFlex.png";
-import dnaflex1 from "../img/DnaFlex1.webp";
-import dnaflex2 from "../img/DnaFlex2.webp";
-import dnaflex3 from "../img/DnaFlex3.webp";
-import dnaflex4 from "../img/DnaFlex4.webp";
+import dnaflex from "../img/dnaFlex.png";
+import dnaflex1 from "../img/dnaFlex1.webp";
+import dnaflex2 from "../img/dnaFlex2.webp";
+import dnaflex3 from "../img/dnaFlex3.webp";
+import dnaflex4 from "../img/dnaFlex4.webp";
 
 const itens = [
   {
