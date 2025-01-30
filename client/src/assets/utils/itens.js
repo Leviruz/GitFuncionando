@@ -72,7 +72,7 @@ import poly_joy2 from "../img/poly_joy2.webp";
 import poly_joy3 from "../img/poly_joy3.webp";
 import poly_joy4 from "../img/poly_joy4.webp";
 
-import vertus from "../img/vertusCasual.png";
+import vertus from "../img/VertusCasual.png";
 import vertus1 from "../img/vertus1.webp";
 import vertus2 from "../img/vertus2.webp";
 import vertus3 from "../img/vertus3.webp";
